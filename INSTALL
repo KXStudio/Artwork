@@ -17,9 +17,11 @@ mkdir -p /usr/share/wallpapers/
 cp -r themes/* /usr/share/themes/
 
 # QtCurve style
+cp *.qtcurve /usr/share/QtCurve/
 cp *.qtcurve /usr/share/kde4/apps/QtCurve/
 
 # KDE Colors
+cp color-schemes/* /usr/share/color-schemes/
 cp color-schemes/* /usr/share/kde4/apps/color-schemes/
 
 # Icons
