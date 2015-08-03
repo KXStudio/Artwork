@@ -26,10 +26,10 @@ cp color-schemes/* /usr/share/kde4/apps/color-schemes/
 cp -r -P icons/* /usr/share/icons/
 
 # KDM Theme
-cp -r -P kdm/* /usr/share/kde4/apps/kdm/
+cp -r -P kdm4/* /usr/share/kde4/apps/kdm/
 
 # KSplash
-cp -r -P ksplash/* /usr/share/kde4/apps/ksplash/
+cp -r -P ksplash4/* /usr/share/kde4/apps/ksplash/
 
 # Plymouth
 cp -r plymouth/* /lib/plymouth/themes/
