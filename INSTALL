@@ -13,7 +13,7 @@ mkdir -p /usr/share/themes/
 mkdir -p /usr/share/xfce4/backdrops/
 mkdir -p /usr/share/wallpapers/
 
-# Generic themes (Gtk, Metacity and WFWM4)
+# Generic themes (Gtk, Metacity and XFWM4)
 cp -r themes/* /usr/share/themes/
 
 # QtCurve style
