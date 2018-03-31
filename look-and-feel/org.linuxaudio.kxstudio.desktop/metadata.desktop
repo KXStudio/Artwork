@@ -13,3 +13,4 @@ X-KDE-PluginInfo-Name=org.linuxaudio.kxstudio.desktop
 X-KDE-PluginInfo-Version=2.0
 X-KDE-PluginInfo-Website=http://kxstudio.linuxaudio.org/
 X-Plasma-MainScript=defaults
+X-KDE-PluginInfo-License=GPLv2+

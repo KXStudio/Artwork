@@ -22,8 +22,7 @@ import QtQuick 2.2
 Image {
     id: root
     fillMode: Image.PreserveAspectCrop
-    source: "/usr/share/wallpapers/KXStudio-Stripes-Miku/contents/images/1920x1200.jpg"
-    //source: "/usr/share/wallpapers/KXStudio-Stripes/contents/images/1920x1200.jpg"
+    source: "/usr/share/wallpapers/KXStudio-Stripes/contents/images/1920x1200.jpg"
 
     property int stage
 
