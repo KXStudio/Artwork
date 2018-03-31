@@ -1,0 +1,15 @@
+[Desktop Entry]
+Comment=KXStudio Desktop
+Name=KXStudio
+Type=Service
+
+X-KDE-ServiceTypes=Plasma/LookAndFeel
+X-KDE-ParentApp=
+X-KDE-PluginInfo-Author=falkTX, KDE Visual Design Group
+X-KDE-PluginInfo-Category=
+X-KDE-PluginInfo-Email=
+X-KDE-PluginInfo-License=GPLv2+
+X-KDE-PluginInfo-Name=org.linuxaudio.kxstudio.desktop
+X-KDE-PluginInfo-Version=2.0
+X-KDE-PluginInfo-Website=http://kxstudio.linuxaudio.org/
+X-Plasma-MainScript=defaults

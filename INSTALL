@@ -13,6 +13,9 @@ mkdir -p /usr/share/themes/
 mkdir -p /usr/share/xfce4/backdrops/
 mkdir -p /usr/share/wallpapers/
 
+# KDE Look and Feel
+cp -r -P look-and-feel/* /usr/share/plasma/look-and-feel/
+
 # Generic themes (Gtk, Metacity and XFWM4)
 cp -r themes/* /usr/share/themes/
 
