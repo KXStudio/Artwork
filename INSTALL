@@ -7,7 +7,8 @@ mkdir -p /usr/share/gnome-background-properties/
 mkdir -p /usr/share/xfce4/backdrops/
 mkdir -p /usr/share/wallpapers/
 
-# KDE Look and Feel
+# KDE5 Stuff
+cp -r -P desktoptheme/*  /usr/share/plasma/desktoptheme/
 cp -r -P look-and-feel/* /usr/share/plasma/look-and-feel/
 
 # Plymouth
